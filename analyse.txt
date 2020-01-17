@@ -1,0 +1,20 @@
+----- pset-L2.ply (nuage de points) -----
+
+Vertices : 498934
+Faces : 0
+
+----- surface-L2.ply -----
+
+Vertices : 40301
+Faces : 79759
+
+
+----- surface-L2-clean.ply -----
+
+Vertices : 21129
+Faces : 40502
+
+
+Barycentre : x : 0.417559  y :  -0.0607847  z :  11.0258
+Xmin :  -2.73497  Ymin :  -2.40018  Zmin :  8.39542
+Xmax :  3.10241  Ymax :  2.19521  Zmax :  14.7116
